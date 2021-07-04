@@ -39,4 +39,4 @@ I am :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brice-Vergnou&show_icons=true&theme=great-gatsby)
 
 ## Wakatime stats
-[![Brice-Vergnou's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brice-Vergnou)](https://github.com/anuraghazra/github-readme-stats)
+[![Brice-Vergnou's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brice_Vergnou)](https://github.com/anuraghazra/github-readme-stats)
