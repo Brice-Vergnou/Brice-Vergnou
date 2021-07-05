@@ -12,6 +12,9 @@ I am :
 [![Twitter Badge](https://img.shields.io/badge/-@Brice__fr-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Brice__fr)
 [![Mail Badge](https://img.shields.io/badge/-brice.vergnou-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:brice.vergnou@gmail.com)
 
+<details>
+  <summary>💻 Technologies used </summary>
+  
 ## 🧰 Tools I use 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/atom-logo-vector.svg" />
@@ -35,7 +38,11 @@ I am :
 <img align="left" width="26px" src="https://3wa.fr/wp-content/uploads/2020/04/Python-Pandas-logo.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" />
 <br>
+</details>
 
+<details>
+  <summary>📈 Statistics</summary>
+  
 ## 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brice-Vergnou&show_icons=true&theme=great-gatsby)
 
@@ -47,3 +54,4 @@ I am :
 ## 📈 Profile visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Brice-Vergnou.Brice-Vergnou)
+</details>
