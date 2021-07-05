@@ -3,15 +3,16 @@
 I am :
 * A wannabe and self-teaching data-scientist from France 
 * High-school student 
-* IT and math enthusiast
+* IT , math and AI enthusiast
 * Learning a lot of stuff on a regular basis
 
-## Connect with me :
+## 📫 Connect with me :
 
-<a href = "https://www.instagram.com/brice_vrgn/" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" width = "26px"/></a>
-<a href = "https://twitter.com/Brice__fr" target="blank"><img src="https://upload.wikimedia.org/wikipedia/fr/c/c8/Twitter_Bird.svg" width = "26px"/></a>
+[![Mail Badge](https://img.shields.io/badge/-@brice_vrgn-e84393?style=flat&labelColor=e84393&logo=instagram&logoColor=white)](https://instagram.com/brice_vrgn)
+[![Twitter Badge](https://img.shields.io/badge/-@Brice__fr-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Brice__fr)
+[![Mail Badge](https://img.shields.io/badge/-brice.vergnou-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:brice.vergnou@gmail.com)
 
-## Tools I use
+## 🧰 Tools I use 
 <img align="left" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" width="26px" src="https://brandslogos.com/wp-content/uploads/thumbs/atom-logo-vector.svg" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Jupyter_logo.svg/1200px-Jupyter_logo.svg.png" />
@@ -21,11 +22,11 @@ I am :
 <img align="left" width="26px" src="http://codymacedo.fr/assets/image/bash.png" />
 <br>
 
-## Languages I use
+## 💻 Languages I use
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brice-Vergnou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-## Modules I use
+## 🧭 Modules I use
 
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/05/Scikit_learn_logo_small.svg/1280px-Scikit_learn_logo_small.svg.png" />
 <img align="left" width="26px" src="https://pytorch.org/assets/images/pytorch-logo.png" />
@@ -35,8 +36,12 @@ I am :
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" />
 <br>
 
-## GitHub Stats
+## 📈 GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brice-Vergnou&show_icons=true&theme=great-gatsby)
 
-## Wakatime stats
+## 📈 Wakatime stats
 [![Brice-Vergnou's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brice_Vergnou)](https://github.com/anuraghazra/github-readme-stats)
+
+## Profile visits
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=Brice-Vergnou.Brice-Vergnou)
