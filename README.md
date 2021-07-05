@@ -40,8 +40,10 @@ I am :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brice-Vergnou&show_icons=true&theme=great-gatsby)
 
 ## 📈 Wakatime stats
+<img align = "left" width ="400px" src="https://wakatime.com/share/@Brice_Vergnou/8245f838-9f8f-413c-bff6-522b6f1eaa1e.png"   />
+<img align = "left" width ="400px" src="https://wakatime.com/share/@Brice_Vergnou/1720b80c-3726-4fdf-bb9d-30f7d438f2d0.png" />
+<br><br><br><br><br><br><br><br><br><br><br><br>
 
-<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Brice_Vergnou/fb4b8458-a147-4058-b9c7-4248e1ea9134.png" width ="500px" /></a>
 ## 📈 Profile visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Brice-Vergnou.Brice-Vergnou)
