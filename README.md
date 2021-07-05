@@ -40,8 +40,10 @@ I am :
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brice-Vergnou&show_icons=true&theme=great-gatsby)
 
 ## 📈 Wakatime stats
-[![Brice-Vergnou's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brice_Vergnou)](https://github.com/anuraghazra/github-readme-stats)
 
-## Profile visits
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+## 📈 Profile visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Brice-Vergnou.Brice-Vergnou)
