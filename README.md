@@ -41,9 +41,7 @@ I am :
 
 ## 📈 Wakatime stats
 
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@Brice_Vergnou/fb4b8458-a147-4058-b9c7-4248e1ea9134.png" /></a>
 ## 📈 Profile visits
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=Brice-Vergnou.Brice-Vergnou)
