@@ -27,7 +27,7 @@ I am :
 <img align="left" width="26px" src="https://git-scm.com/images/logos/downloads/Git-Icon-1788C.png" />
 <img align="left" width="26px" src="http://codymacedo.fr/assets/image/bash.png" />
 <br>
-  
+
 ---
   
 ### 💻 Languages I use
