@@ -61,13 +61,7 @@ I am :
 
 **Time spent in Jupyter Notebooks ( which is what I mostly use ) is not added**
 
-<img align = "left" width ="450px" src="https://wakatime.com/share/@Brice_Vergnou/8245f838-9f8f-413c-bff6-522b6f1eaa1e.png"   />
-<img align = "left" width ="450px" src="https://wakatime.com/share/@Brice_Vergnou/1720b80c-3726-4fdf-bb9d-30f7d438f2d0.png" />
+<img align = "left" width ="500px" src="https://wakatime.com/share/@Brice_Vergnou/8245f838-9f8f-413c-bff6-522b6f1eaa1e.png"   />
+<img align = "left" width ="500px" src="https://wakatime.com/share/@Brice_Vergnou/1720b80c-3726-4fdf-bb9d-30f7d438f2d0.png" />
 <br><br><br><br><br><br><br><br><br><br><br><br>
   
----
-  
-### 📈 Profile visits
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=Brice-Vergnou.Brice-Vergnou)
-</details>
