@@ -67,7 +67,7 @@ I am :
 
   --- 
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=Brice-Vergnou&no-bg=true&theme=buddhism)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Brice-Vergnou&no-bg=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
   
