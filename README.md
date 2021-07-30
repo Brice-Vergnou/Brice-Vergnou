@@ -62,6 +62,7 @@ I am :
   <summary><strong>📈 Github stats</strong></summary>
   
 <br>
+  
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brice-Vergnou&show_icons=true&theme=great-gatsby&hide=contribs&include_all_commits=truea&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
   --- 
