@@ -52,18 +52,16 @@ I am :
 ---
 
 <details>
-  <summary><strong>📈 Statistics</strong></summary>
+  <summary><strong>📈 Github stats</strong></summary>
   
-### 📈 GitHub Stats
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brice-Vergnou&show_icons=true&theme=great-gatsby)
 
   --- 
 
-### 📈 Time spent coding with Wakatime
+[![trophy](https://github-profile-trophy.vercel.app/?username=Brice-Vergnou)](https://github.com/ryo-ma/github-profile-trophy)
 
-**Time spent in Jupyter Notebooks ( which is what I mostly use ) is not added**
-
-<img align = "left" width ="600px" src="https://wakatime.com/share/@Brice_Vergnou/8245f838-9f8f-413c-bff6-522b6f1eaa1e.png"   />
-<img align = "left" width ="600px" src="https://wakatime.com/share/@Brice_Vergnou/1720b80c-3726-4fdf-bb9d-30f7d438f2d0.png" />
-<br><br><br><br><br><br><br><br><br><br><br><br>
+---
   
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=brice-vergnou&" alt="brice-vergnou" /></p>
+
