@@ -34,7 +34,8 @@ I am :
   
 ### 💻 Languages I use
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brice-Vergnou&langs_count=8&layout=compact?hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Brice-Vergnou&langs_count=8&layout=compact&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
+
 
 ---
   
@@ -47,6 +48,13 @@ I am :
 <img align="left" width="26px" src="https://3wa.fr/wp-content/uploads/2020/04/Python-Pandas-logo.png" />
 <img align="left" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/Created_with_Matplotlib-logo.svg/2048px-Created_with_Matplotlib-logo.svg.png" />
 <br>
+  
+ ---
+  
+  ### 🕒 Time spent coding with Wakatime ( Jupyter Notebooks are not added , even though it is what I mostly use )
+  
+  [![Brice's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brice_Vergnou)](https://github.com/anuraghazra/github-readme-stats)
+
 </details>
 
 ---
