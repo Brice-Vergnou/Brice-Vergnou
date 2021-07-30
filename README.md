@@ -1,4 +1,4 @@
-<img align="left" width="1000px" src="https://user-images.githubusercontent.com/86613710/127637197-712a23fb-1172-443f-ad88-e34a249cf1d0.png" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=45F700&lines=I+am+Brice...;I+create+new+forms+of+intelligence...;Welcome+to+my+profile+%F0%9F%99%82)](https://git.io/typing-svg)
 
 ### Hi there 👋
 
