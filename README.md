@@ -53,7 +53,7 @@ I am :
   
   ### 🕒 Time spent coding with Wakatime ( Jupyter Notebooks are not added , even though it is what I mostly use )
   
-  [![Brice's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brice_Vergnou)](https://github.com/anuraghazra/github-readme-stats)
+  [![Brice's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Brice_Vergnou&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 </details>
 
@@ -63,7 +63,7 @@ I am :
   <summary><strong>📈 Github stats</strong></summary>
   
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brice-Vergnou&show_icons=true&theme=great-gatsby)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brice-Vergnou&show_icons=true&theme=great-gatsby&hide=contribs&include_all_commits=truea&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
 
   --- 
 
