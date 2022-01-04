@@ -15,7 +15,7 @@ I am :
 [![Twitter Badge](https://img.shields.io/badge/-@Brice__fr-1ca0f1?style=flat&labelColor=1ca0f1&logo=twitter&logoColor=white&link=https://twitter.com/Ipenywis)](https://twitter.com/Brice__fr)
 [![Mail Badge](https://img.shields.io/badge/-brice.vergnou-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:brice.vergnou@gmail.com)
 [![Mail Badge](https://img.shields.io/badge/-Brice%20Vergnou-0a66c2?style=flat&labelColor=0a66c2&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/brice-vergnou-692a90206/)
-[![Mail Badge](https://img.shields.io/badge/-Website-8491cf?style=flat&labelColor=8491cf)](https://www.linkedin.com/in/brice-vergnou-692a90206/)
+[![Mail Badge](https://img.shields.io/badge/-Website-8491cf?style=flat&labelColor=8491cf)](https://brice-vergnou.github.io/web/)
 
 
 ---
