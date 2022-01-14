@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=45F700&lines=I+am+Brice...;I+create+new+forms+of+intelligence...;Welcome+to+my+profile+%F0%9F%99%82)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=45F700&lines=I+am+Brice...;My+mom+feeds+me+with+data;Welcome+to+my+profile+%F0%9F%99%82)](https://git.io/typing-svg)
 
 ### Hi there 👋
 
@@ -60,10 +60,6 @@ I am :
 <br>
   
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Brice-Vergnou&show_icons=true&theme=great-gatsby&hide=contribs&include_all_commits=truea&bg_color=30,e96443,904e95&title_color=fff&text_color=fff)
-
-  --- 
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Brice-Vergnou&no-bg=true&theme=darkhub)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
   
