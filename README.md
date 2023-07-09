@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=45F700&lines=I+am+Brice...;My+mom+feeds+me+with+data;Welcome+to+my+profile+%F0%9F%99%82)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=45F700&lines=I+am+Brice...;Welcome+to+my+profile+%F0%9F%99%82)](https://git.io/typing-svg)
 
 ### Hi there 👋
 
