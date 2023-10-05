@@ -3,8 +3,8 @@
 ### Hi there 👋
 
 I am :
-* A wannabe and self-teaching data-scientist from France 
-* IT , math and AI enthusiast
+* a science student from France
+* an IT , math and AI enthusiast
 * Learning a lot of stuff on a regular basis
 
 ---
